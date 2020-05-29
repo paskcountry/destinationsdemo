@@ -1,0 +1,148 @@
+{
+  "status": 200,
+  "result": 1,
+  "version": 0,
+  "errors": null,
+  "destinations": [
+    {
+      "code": 7,
+      "jumps": 2,
+      "type": 0
+    },
+    {
+      "code": 8,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 5,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 3,
+      "jumps": 0,
+      "type": 0
+    },
+    {
+      "code": 10,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 6,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 9,
+      "jumps": 0,
+      "type": 0
+    },
+    {
+      "code": 11,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 12,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 34,
+      "jumps": 0,
+      "type": 0
+    },
+    {
+      "code": 40,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 70,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 65,
+      "jumps": 0,
+      "type": 0
+    },
+    {
+      "code": 67,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 68,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 140,
+      "jumps": 0,
+      "type": 0
+    },
+    {
+      "code": 66,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 72,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 75,
+      "jumps": 0,
+      "type": 0
+    },
+    {
+      "code": 71,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 58,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 57,
+      "jumps": 0,
+      "type": 0
+    },
+    {
+      "code": 54,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 46,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 51,
+      "jumps": 0,
+      "type": 0
+    },
+    {
+      "code": 47,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 60,
+      "jumps": 4,
+      "type": 0
+    },
+    {
+      "code": 64,
+      "jumps": 0,
+      "type": 0
+    }
+  ]
+}
